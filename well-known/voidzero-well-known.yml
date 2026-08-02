@@ -1,0 +1,19 @@
+generated: '2026-07-21'
+method: searched
+source: live probes of https://voidzero.dev/.well-known/*
+host: https://voidzero.dev
+notes: >-
+  No .well-known discovery documents are published. VoidZero is an open-source
+  JavaScript-tooling company and exposes no hosted API, OAuth server, or API
+  catalog. Absence is a valid, expected result and is recorded here for audit.
+documents:
+  - path: /.well-known/security.txt
+    status: 404
+  - path: /.well-known/openid-configuration
+    status: 404
+  - path: /.well-known/oauth-authorization-server
+    status: 404
+  - path: /.well-known/api-catalog
+    status: 404
+  - path: /.well-known/ai-plugin.json
+    status: 404

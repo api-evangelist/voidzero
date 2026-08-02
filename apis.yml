@@ -1,8 +1,26 @@
 aid: voidzero
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/voidzero.png
 name: VoidZero
-description: 'VoidZero is a company surfaced as a portfolio company of accel and added to the API Evangelist
-  network as a stub for enrichment. Sector: developer-tools. This profile is a lead awaiting the enrichment
-  pipeline.'
+description: >-
+  VoidZero is the JavaScript tooling company building a unified, high-performance
+  open-source toolchain for web development: the build tool Vite, the test runner
+  Vitest, the Rust-based bundler Rolldown, and the Oxc language toolchain (including
+  the oxlint linter and oxc-parser), all brought together under the commercial
+  unified entry point Vite+. Founded by Evan You, creator of Vite and Vue.js, and
+  backed by Accel and Peak XV, VoidZero joined Cloudflare in 2026. The company
+  ships its capabilities as open-source npm packages and command-line tools rather
+  than as a hosted REST API.
 url: https://raw.githubusercontent.com/api-evangelist/voidzero/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,10 +30,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
 - Developer Tools
+- JavaScript
+- Build Tools
+- Toolchain
+- Open Source
+- Testing
+- Bundler
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,3 +49,24 @@ maintainers:
 common:
 - type: Website
   url: https://voidzero.dev/
+- type: Blog
+  url: https://voidzero.dev/blog
+- type: GitHubOrganization
+  url: https://github.com/voidzero-dev
+- type: Support
+  url: https://discord.gg/cC6TEVFKSx
+- type: TermsOfService
+  url: https://voidzero.dev/legal/terms
+- type: PrivacyPolicy
+  url: https://voidzero.dev/legal/privacy
+- type: Packages
+  url: packages/voidzero-packages.yml
+- type: DomainSecurity
+  url: security/voidzero-domain-security.yml
+- type: LLMsTxt
+  url: llms/voidzero-llms.txt
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 4
+  pass: local-v1

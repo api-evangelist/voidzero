@@ -1,0 +1,55 @@
+generated: '2026-07-21'
+method: searched
+source: https://registry.npmjs.org/
+notes: >-
+  VoidZero is the company stewarding a unified open-source JavaScript toolchain.
+  These are the flagship first-party npm packages the company builds and maintains
+  (Evan You / VoidZero team). They are the products themselves (build tool, test
+  runner, bundler, linter/parser) rather than client SDKs for a hosted API — VoidZero
+  publishes no REST API. Versions captured from the npm registry on 2026-07-21.
+packages:
+  - language: javascript
+    registry: npm
+    name: vite
+    url: https://www.npmjs.com/package/vite
+    install: npm install vite
+    version: 8.1.5
+    repository: https://github.com/vitejs/vite
+    official: true
+    description: The build tool for the web.
+  - language: javascript
+    registry: npm
+    name: vitest
+    url: https://www.npmjs.com/package/vitest
+    install: npm install -D vitest
+    version: 4.1.10
+    repository: https://github.com/vitest-dev/vitest
+    official: true
+    description: Next-generation testing framework powered by Vite.
+  - language: javascript
+    registry: npm
+    name: rolldown
+    url: https://www.npmjs.com/package/rolldown
+    install: npm install -D rolldown
+    version: 1.2.0
+    repository: https://github.com/rolldown/rolldown
+    official: true
+    description: Fast Rust-based JavaScript bundler, drop-in compatible with Rollup.
+  - language: javascript
+    registry: npm
+    name: oxlint
+    url: https://www.npmjs.com/package/oxlint
+    install: npm install -D oxlint
+    version: 1.75.0
+    repository: https://github.com/oxc-project/oxc
+    official: true
+    description: Fast Rust-based JavaScript/TypeScript linter, part of the Oxc toolchain.
+  - language: javascript
+    registry: npm
+    name: oxc-parser
+    url: https://www.npmjs.com/package/oxc-parser
+    install: npm install oxc-parser
+    version: 0.141.0
+    repository: https://github.com/oxc-project/oxc
+    official: true
+    description: JavaScript/TypeScript parser bindings for the Oxc toolchain.

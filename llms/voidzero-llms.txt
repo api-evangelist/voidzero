@@ -1,0 +1,34 @@
+# VoidZero
+
+> VoidZero is the JavaScript tooling company building a unified, high-performance
+> open-source toolchain for web development — the build tool (Vite), test runner
+> (Vitest), bundler (Rolldown), and language toolchain (Oxc / oxlint) — plus the
+> commercial unified entry point Vite+. Founded by Evan You (creator of Vite and
+> Vue.js) and backed by Accel and Peak XV; VoidZero joined Cloudflare in 2026.
+> VoidZero publishes developer tools as open-source npm packages rather than a
+> hosted REST API.
+
+## Company
+- [Website](https://voidzero.dev/): Company home.
+- [Blog](https://voidzero.dev/blog): Announcements and "Tales from the Void" recaps.
+- [GitHub organization](https://github.com/voidzero-dev): Vite+, vite-task, setup-vp and more.
+- [Discord](https://discord.gg/cC6TEVFKSx): Community chat and support.
+
+## Products
+- [Vite+](https://viteplus.dev): The unified toolchain and entry point for web development.
+- [Vite](https://vite.dev): The build tool for the web.
+- [Vitest](https://vitest.dev): Next-generation testing framework powered by Vite.
+- [Rolldown](https://rolldown.rs): Fast Rust-based JavaScript bundler.
+- [Oxc](https://oxc.rs): The fastest JavaScript language toolchain (includes oxlint).
+
+## Packages
+- [vite (npm)](https://www.npmjs.com/package/vite)
+- [vitest (npm)](https://www.npmjs.com/package/vitest)
+- [rolldown (npm)](https://www.npmjs.com/package/rolldown)
+- [oxlint (npm)](https://www.npmjs.com/package/oxlint)
+- [oxc-parser (npm)](https://www.npmjs.com/package/oxc-parser)
+
+## Legal
+- [Terms of Service](https://voidzero.dev/legal/terms)
+- [Privacy Policy](https://voidzero.dev/legal/privacy)
+- [Acceptable Use Policy](https://voidzero.dev/legal/acceptable-use)
