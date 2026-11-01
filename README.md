@@ -64,6 +64,84 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-VoidZero is a company surfaced as a portfolio company of accel and added to the API Evangelist network as a stub for enrichment. Sector: developer-tools. This profile is a lead awaiting the enrichment pipeline.
+VoidZero is the JavaScript tooling company building a unified, high-performance open-source toolchain for web development: the build tool Vite, the test runner Vitest, the Rust-based bundler Rolldown, and the Oxc language toolchain (including the oxlint linter and oxc-parser), all brought together under the commercial unified entry point Vite+. Founded by Evan You, creator of Vite and Vue.js, and backed by Accel and Peak XV, VoidZero joined Cloudflare in 2026. The company ships its capabilities as open-source npm packages and command-line tools rather than as a hosted REST API.
 
-Backed by: accel — https://voidzero.dev/
+**Areas:** Company · Developer Tools · JavaScript · Build Tools · Toolchain · Open Source · Testing · Bundler
+
+## VoidZero on APIs.io
+
+Everything profiled for VoidZero is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/voidzero/](https://apis.io/providers/voidzero/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Voidzero Domain Security](https://apis.io/security/voidzero/voidzero-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://voidzero.dev/)
+- [Support](https://discord.gg/cC6TEVFKSx)
+- [Blog](https://voidzero.dev/blog)
+- [Terms of service](https://voidzero.dev/legal/terms)
+- [Privacy policy](https://voidzero.dev/legal/privacy)
+- [GitHub](https://github.com/voidzero-dev)
+
+## API Evangelist rating
+
+**Kin Score 11.3** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 2.6 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 21.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 13.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/voidzero/](https://apis.io/providers/voidzero/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for VoidZero: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/voidzero/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
